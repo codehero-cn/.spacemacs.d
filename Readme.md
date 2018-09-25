@@ -1,35 +1,36 @@
-###°²×°Ê¹ÓÃ
-°²×°emacs
-°²×°spacemacs:git@github.com/syl20bnr/spacemacs.git  ~/.emacs.d
-°²×°±¾ÅäÖÃ:git@github.com:codehero-cn/.spacemacs.d.git ~/.spacemacs.d
+### å®‰è£…ä½¿ç”¨  
+å®‰è£…emacs  
+å®‰è£…spacemacs:git@github.com/syl20bnr/spacemacs.git  ~/.emacs.d  
+å®‰è£…æœ¬é…ç½®:git@github.com:codehero-cn/.spacemacs.d.git ~/.spacemacs.d  
 
-###ÎÄ¼ş½á¹¹
-|--bak/   ÖØÒªinit.elÎÄ¼ş±¸·İ
-|--init.el
-|--Readme.md
+### æ–‡ä»¶ç»“æ„  
+|--layers æ²¡å†…å®¹ä¹Ÿå»ºç«‹ï¼Œå¦åˆ™å¯åŠ¨æ—¶æŠ¥warning  
+|--bak/    é‡è¦init.elæ–‡ä»¶å¤‡ä»½   
+|--init.el  
+|--Readme.md  
 
-###Ô­Ê¼ÅäÖÃÉú³É
-°²×°emacs
-°²×°spacemacs:ÏÂÔØhttps://github.com/syl20bnr/spacemacs.git  20180925 download zip spacemacs-master.zip
-½âÑ¹ºó·Åµ½~/.emacs.d/Ä¿Â¼ÏÂ  
+### åŸå§‹é…ç½®ç”Ÿæˆ  
+å®‰è£…emacs  
+å®‰è£…spacemacs:ä¸‹è½½https://github.com/syl20bnr/spacemacs.git  20180925 download zip spacemacs-master.zip  
+è§£å‹åæ”¾åˆ°~/.emacs.d/ç›®å½•ä¸‹  
 
-µÚ1´ÎÔËĞĞemacs,×Ô¶¯Æô¶¯ÅäÖÃÏòµ¼Dotfile wizard installer
-1).What is your preferred editing style?
-->On the planet Emacs in the Holy control tower(emacs)
-  Among the starts aboard the Evil flagship (vim)
-2).What distribution of spacemacs would you like to start with?
-->The standard distribution,recommended (spacemacs)
-  A minimalist distribution that you can build on (spacemacs-base)
-3).What type of completion framework do you want?
-->A heavy one but full-featured (helm)
-  A lighter one but still very powerful (ivy)
+ç¬¬1æ¬¡è¿è¡Œemacs,è‡ªåŠ¨å¯åŠ¨é…ç½®å‘å¯¼Dotfile wizard installer  
+1).What is your preferred editing style?  
+->On the planet Emacs in the Holy control tower(emacs)  
+  Among the starts aboard the Evil flagship (vim)  
+2).What distribution of spacemacs would you like to start with?  
+->The standard distribution,recommended (spacemacs)  
+  A minimalist distribution that you can build on (spacemacs-base)  
+3).What type of completion framework do you want?  
+->A heavy one but full-featured (helm)  
+  A lighter one but still very powerful (ivy)  
   None (not recommended)  
 
-ÏÂÔØ²å¼şÆô¶¯Íê³É,×Ô¶¯Éú³É~/.spacemacsÎÄ¼ş
-½¨Á¢~/.spacemacs.d,²¢move ~/.spacemacs to ~/.spacemacs.d/init.el
-Note: ~/.spacemacs will always take priority over ~/.spacemacs.d/init.el, so ~/.spacemacs must not exist for ~/.spacemacs.d/init.el to be used by Spacemacs.
-¿ªÊ¼×Ô¼ºµÄ¸öĞÔ»¯ÅäÖÃ...
-
+ä¸‹è½½æ’ä»¶å¯åŠ¨å®Œæˆ,è‡ªåŠ¨ç”Ÿæˆ~/.spacemacsæ–‡ä»¶  
+å»ºç«‹~/.spacemacs.d,å¹¶move ~/.spacemacs to ~/.spacemacs.d/init.el  
+Note: ~/.spacemacs will always take priority over ~/.spacemacs.d/init.el, so ~/.spacemacs must not exist for ~/.spacemacs.d/init.el to be used by Spacemacs.  
+å¼€å§‹è‡ªå·±çš„ä¸ªæ€§åŒ–é…ç½®...  
+1)init.el everywhere I modified ,I'll add ';;eleven' at the end.   
 
 
 
